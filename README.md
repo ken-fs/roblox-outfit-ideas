@@ -1,6 +1,6 @@
 # Roblox Outfit Ideas (open dataset)
 
-Complete Roblox avatar outfits by style and budget, with every item ID and price. 424 outfits, 228 catalog items, last updated 2026-10-02.
+Complete Roblox avatar outfits by style and budget, with every item ID and price. 424 outfits, 239 catalog items, last updated 2026-10-02.
 
 Browse them with pictures at **[robloxoutfits.net](https://robloxoutfits.net)**.
 
@@ -31,7 +31,7 @@ Item IDs can be pasted into games that let you wear catalog items by ID, such as
 
 - Items come from the public Roblox catalog, picked from the most favorited pieces in each style.
 - An outfit is a shirt, pants and hair, sometimes with one accessory. Totals add up each item at its catalog price on the update date.
-- Classic shirts and pants cost at least 5 Robux each, so no full classic outfit is free. "Almost free" means free hair and accessories with the cheapest clothing (15 Robux or less).
+- Most shirts and pants cost at least 5 Robux each, but Roblox gives away a few of its own, so a handful of outfits cost 0 Robux. "Almost free" means free hair and accessories with the cheapest clothing (15 Robux or less).
 - Prices on Roblox change often. Check the catalog link before buying.
 
 ## License and credits
