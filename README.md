@@ -1,6 +1,6 @@
 # Roblox Outfit Ideas (open dataset)
 
-Complete Roblox avatar outfits by style and budget, with every item ID and price. 342 outfits, 191 catalog items, last updated 2026-10-02.
+Complete Roblox avatar outfits by style and budget, with every item ID and price. 376 outfits, 206 catalog items, last updated 2026-10-02.
 
 Browse them with pictures at **[robloxoutfits.net](https://robloxoutfits.net)**.
 
@@ -11,11 +11,11 @@ Browse them with pictures at **[robloxoutfits.net](https://robloxoutfits.net)**.
 | [Aesthetic](https://robloxoutfits.net/outfits/aesthetic/) | [12](https://robloxoutfits.net/outfits/aesthetic/almost-free/) | [12](https://robloxoutfits.net/outfits/aesthetic/under-50-robux/) | [12](https://robloxoutfits.net/outfits/aesthetic/under-100-robux/) | [12](https://robloxoutfits.net/outfits/aesthetic/under-200-robux/) |
 | [Preppy](https://robloxoutfits.net/outfits/preppy/) | [12](https://robloxoutfits.net/outfits/preppy/almost-free/) | [12](https://robloxoutfits.net/outfits/preppy/under-50-robux/) | [12](https://robloxoutfits.net/outfits/preppy/under-100-robux/) | [12](https://robloxoutfits.net/outfits/preppy/under-200-robux/) |
 | [Emo](https://robloxoutfits.net/outfits/emo/) | [12](https://robloxoutfits.net/outfits/emo/almost-free/) | [12](https://robloxoutfits.net/outfits/emo/under-50-robux/) | [12](https://robloxoutfits.net/outfits/emo/under-100-robux/) | [12](https://robloxoutfits.net/outfits/emo/under-200-robux/) |
-| [Goth](https://robloxoutfits.net/outfits/goth/) | [6](https://robloxoutfits.net/outfits/goth/almost-free/) | [6](https://robloxoutfits.net/outfits/goth/under-50-robux/) | [8](https://robloxoutfits.net/outfits/goth/under-100-robux/) | [10](https://robloxoutfits.net/outfits/goth/under-200-robux/) |
+| [Goth](https://robloxoutfits.net/outfits/goth/) | [12](https://robloxoutfits.net/outfits/goth/almost-free/) | [12](https://robloxoutfits.net/outfits/goth/under-50-robux/) | [12](https://robloxoutfits.net/outfits/goth/under-100-robux/) | [12](https://robloxoutfits.net/outfits/goth/under-200-robux/) |
+| [Baddie](https://robloxoutfits.net/outfits/baddie/) | [12](https://robloxoutfits.net/outfits/baddie/almost-free/) | [12](https://robloxoutfits.net/outfits/baddie/under-50-robux/) | [12](https://robloxoutfits.net/outfits/baddie/under-100-robux/) | [12](https://robloxoutfits.net/outfits/baddie/under-200-robux/) |
 | [Streetwear](https://robloxoutfits.net/outfits/streetwear/) | [8](https://robloxoutfits.net/outfits/streetwear/almost-free/) | [8](https://robloxoutfits.net/outfits/streetwear/under-50-robux/) | [12](https://robloxoutfits.net/outfits/streetwear/under-100-robux/) | [12](https://robloxoutfits.net/outfits/streetwear/under-200-robux/) |
 | [Y2K](https://robloxoutfits.net/outfits/y2k/) | [12](https://robloxoutfits.net/outfits/y2k/almost-free/) | [12](https://robloxoutfits.net/outfits/y2k/under-50-robux/) | [12](https://robloxoutfits.net/outfits/y2k/under-100-robux/) | [12](https://robloxoutfits.net/outfits/y2k/under-200-robux/) |
 | [Cute](https://robloxoutfits.net/outfits/cute/) | [12](https://robloxoutfits.net/outfits/cute/almost-free/) | [12](https://robloxoutfits.net/outfits/cute/under-50-robux/) | [12](https://robloxoutfits.net/outfits/cute/under-100-robux/) | [12](https://robloxoutfits.net/outfits/cute/under-200-robux/) |
-| [Baddie](https://robloxoutfits.net/outfits/baddie/) | [4](https://robloxoutfits.net/outfits/baddie/almost-free/) | [4](https://robloxoutfits.net/outfits/baddie/under-50-robux/) | [12](https://robloxoutfits.net/outfits/baddie/under-100-robux/) | [12](https://robloxoutfits.net/outfits/baddie/under-200-robux/) |
 
 ## Files
 

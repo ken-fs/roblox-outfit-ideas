@@ -5044,30 +5044,30 @@
    "style": "Goth",
    "budget": "Almost free",
    "rank": 1,
-   "total_robux": 10,
+   "total_robux": 0,
    "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
    "image": "https://robloxoutfits.net/outfits/goth-almost-free-1.webp",
    "items": [
     {
-     "id": "110063774764393",
-     "name": "Goth",
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
      "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/144076358"
     },
     {
-     "id": "7220612603",
-     "name": "Black Silk Mini Dress necklace jeans y2k goth",
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/7220612603"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
     },
     {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
+     "id": "376527350",
+     "name": "Black Ponytail",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
+     "catalog": "https://www.roblox.com/catalog/376527350"
     },
     {
      "id": "98547644476413",
@@ -5082,9 +5082,237 @@
    "style": "Goth",
    "budget": "Almost free",
    "rank": 2,
-   "total_robux": 10,
+   "total_robux": 0,
    "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
    "image": "https://robloxoutfits.net/outfits/goth-almost-free-2.webp",
+   "items": [
+    {
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/144076358"
+    },
+    {
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
+    },
+    {
+     "id": "376527350",
+     "name": "Black Ponytail",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/376527350"
+    },
+    {
+     "id": "98547644476413",
+     "name": "Pink Goth Chained 8-Bit Crown",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/98547644476413"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Almost free",
+   "rank": 3,
+   "total_robux": 0,
+   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-3.webp",
+   "items": [
+    {
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
+    },
+    {
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
+    },
+    {
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193442167"
+    },
+    {
+     "id": "82820104466406",
+     "name": "Goth Cowboy Hat with Scarf",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/82820104466406"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Almost free",
+   "rank": 4,
+   "total_robux": 0,
+   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-4.webp",
+   "items": [
+    {
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
+    },
+    {
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
+    },
+    {
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193442167"
+    },
+    {
+     "id": "82820104466406",
+     "name": "Goth Cowboy Hat with Scarf",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/82820104466406"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Almost free",
+   "rank": 5,
+   "total_robux": 5,
+   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-5.webp",
+   "items": [
+    {
+     "id": "110063774764393",
+     "name": "Goth",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
+    },
+    {
+     "id": "382537569",
+     "name": "Black Jeans",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
+    },
+    {
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993754725"
+    },
+    {
+     "id": "86234309276443",
+     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/86234309276443"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Almost free",
+   "rank": 6,
+   "total_robux": 5,
+   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-6.webp",
+   "items": [
+    {
+     "id": "70469845918724",
+     "name": "Black Goth Top",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/70469845918724"
+    },
+    {
+     "id": "382537569",
+     "name": "Black Jeans",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
+    },
+    {
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993754725"
+    },
+    {
+     "id": "86234309276443",
+     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/86234309276443"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Almost free",
+   "rank": 7,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-7.webp",
+   "items": [
+    {
+     "id": "110063774764393",
+     "name": "Goth",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
+    },
+    {
+     "id": "7220612603",
+     "name": "Black Silk Mini Dress necklace jeans y2k goth",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/7220612603"
+    },
+    {
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
+    },
+    {
+     "id": "96141064088441",
+     "name": "Purple of Relinquished Goth Top Hat [CODE: PRGTH]",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/96141064088441"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Almost free",
+   "rank": 8,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-8.webp",
    "items": [
     {
      "id": "70469845918724",
@@ -5101,35 +5329,35 @@
      "catalog": "https://www.roblox.com/catalog/7220612603"
     },
     {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
     },
     {
-     "id": "98547644476413",
-     "name": "Pink Goth Chained 8-Bit Crown",
+     "id": "96141064088441",
+     "name": "Purple of Relinquished Goth Top Hat [CODE: PRGTH]",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/98547644476413"
+     "catalog": "https://www.roblox.com/catalog/96141064088441"
     }
    ]
   },
   {
    "style": "Goth",
    "budget": "Almost free",
-   "rank": 3,
+   "rank": 9,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/goth-almost-free-3.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-9.webp",
    "items": [
     {
-     "id": "110063774764393",
-     "name": "Goth",
+     "id": "79556613659092",
+     "name": "Snow Leopard w Bodysuit Red Goth Femb",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
+     "catalog": "https://www.roblox.com/catalog/79556613659092"
     },
     {
      "id": "5246950670",
@@ -5139,66 +5367,28 @@
      "catalog": "https://www.roblox.com/catalog/5246950670"
     },
     {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
+     "id": "62234425",
+     "name": "Brown Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
+     "catalog": "https://www.roblox.com/catalog/62234425"
     },
     {
-     "id": "82820104466406",
-     "name": "Goth Cowboy Hat with Scarf",
+     "id": "70498238301867",
+     "name": "The Funeral Party Goth Queen",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/82820104466406"
+     "catalog": "https://www.roblox.com/catalog/70498238301867"
     }
    ]
   },
   {
    "style": "Goth",
    "budget": "Almost free",
-   "rank": 4,
+   "rank": 10,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/goth-almost-free-4.webp",
-   "items": [
-    {
-     "id": "70469845918724",
-     "name": "Black Goth Top",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/70469845918724"
-    },
-    {
-     "id": "5246950670",
-     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/5246950670"
-    },
-    {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
-    },
-    {
-     "id": "82820104466406",
-     "name": "Goth Cowboy Hat with Scarf",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/82820104466406"
-    }
-   ]
-  },
-  {
-   "style": "Goth",
-   "budget": "Almost free",
-   "rank": 5,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/goth-almost-free-5.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-10.webp",
    "items": [
     {
      "id": "79556613659092",
@@ -5215,56 +5405,94 @@
      "catalog": "https://www.roblox.com/catalog/6986198004"
     },
     {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
+     "id": "62234425",
+     "name": "Brown Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
+     "catalog": "https://www.roblox.com/catalog/62234425"
     },
     {
-     "id": "86234309276443",
-     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "id": "70498238301867",
+     "name": "The Funeral Party Goth Queen",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/86234309276443"
+     "catalog": "https://www.roblox.com/catalog/70498238301867"
     }
    ]
   },
   {
    "style": "Goth",
    "budget": "Almost free",
-   "rank": 6,
+   "rank": 11,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/goth-almost-free-6.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-11.webp",
    "items": [
     {
-     "id": "79556613659092",
-     "name": "Snow Leopard w Bodysuit Red Goth Femb",
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/79556613659092"
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
     },
     {
-     "id": "6275777270",
-     "name": "swag ok vamp hi doll skull emo schoolboy y2k blood",
+     "id": "5246950670",
+     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
      "slot": "Pants",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6275777270"
+     "catalog": "https://www.roblox.com/catalog/5246950670"
     },
     {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
+     "id": "122614899184757",
+     "name": "Black Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
+     "catalog": "https://www.roblox.com/catalog/122614899184757"
     },
     {
-     "id": "86234309276443",
-     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "id": "117022277010244",
+     "name": "Leopard Goth Hat",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/86234309276443"
+     "catalog": "https://www.roblox.com/catalog/117022277010244"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Almost free",
+   "rank": 12,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/goth/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/goth-almost-free-12.webp",
+   "items": [
+    {
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
+    },
+    {
+     "id": "6986198004",
+     "name": "Black and pink Y2K pretty gothic vamp skirt",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6986198004"
+    },
+    {
+     "id": "122614899184757",
+     "name": "Black Messy Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/122614899184757"
+    },
+    {
+     "id": "117022277010244",
+     "name": "Leopard Goth Hat",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/117022277010244"
     }
    ]
   },
@@ -5272,30 +5500,30 @@
    "style": "Goth",
    "budget": "Under 50 Robux",
    "rank": 1,
-   "total_robux": 10,
+   "total_robux": 0,
    "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-50-1.webp",
    "items": [
     {
-     "id": "110063774764393",
-     "name": "Goth",
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
      "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/144076358"
     },
     {
-     "id": "7220612603",
-     "name": "Black Silk Mini Dress necklace jeans y2k goth",
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/7220612603"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
     },
     {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
+     "id": "376527350",
+     "name": "Black Ponytail",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
+     "catalog": "https://www.roblox.com/catalog/376527350"
     },
     {
      "id": "98547644476413",
@@ -5310,9 +5538,237 @@
    "style": "Goth",
    "budget": "Under 50 Robux",
    "rank": 2,
-   "total_robux": 10,
+   "total_robux": 0,
    "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-50-2.webp",
+   "items": [
+    {
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/144076358"
+    },
+    {
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
+    },
+    {
+     "id": "376527350",
+     "name": "Black Ponytail",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/376527350"
+    },
+    {
+     "id": "98547644476413",
+     "name": "Pink Goth Chained 8-Bit Crown",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/98547644476413"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 50 Robux",
+   "rank": 3,
+   "total_robux": 0,
+   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-3.webp",
+   "items": [
+    {
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
+    },
+    {
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
+    },
+    {
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193442167"
+    },
+    {
+     "id": "82820104466406",
+     "name": "Goth Cowboy Hat with Scarf",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/82820104466406"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 50 Robux",
+   "rank": 4,
+   "total_robux": 0,
+   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-4.webp",
+   "items": [
+    {
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
+    },
+    {
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
+    },
+    {
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193442167"
+    },
+    {
+     "id": "82820104466406",
+     "name": "Goth Cowboy Hat with Scarf",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/82820104466406"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 50 Robux",
+   "rank": 5,
+   "total_robux": 5,
+   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-5.webp",
+   "items": [
+    {
+     "id": "110063774764393",
+     "name": "Goth",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
+    },
+    {
+     "id": "382537569",
+     "name": "Black Jeans",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
+    },
+    {
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993754725"
+    },
+    {
+     "id": "86234309276443",
+     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/86234309276443"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 50 Robux",
+   "rank": 6,
+   "total_robux": 5,
+   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-6.webp",
+   "items": [
+    {
+     "id": "70469845918724",
+     "name": "Black Goth Top",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/70469845918724"
+    },
+    {
+     "id": "382537569",
+     "name": "Black Jeans",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
+    },
+    {
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993754725"
+    },
+    {
+     "id": "86234309276443",
+     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/86234309276443"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 50 Robux",
+   "rank": 7,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-7.webp",
+   "items": [
+    {
+     "id": "110063774764393",
+     "name": "Goth",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
+    },
+    {
+     "id": "7220612603",
+     "name": "Black Silk Mini Dress necklace jeans y2k goth",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/7220612603"
+    },
+    {
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
+    },
+    {
+     "id": "96141064088441",
+     "name": "Purple of Relinquished Goth Top Hat [CODE: PRGTH]",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/96141064088441"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 50 Robux",
+   "rank": 8,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-8.webp",
    "items": [
     {
      "id": "70469845918724",
@@ -5329,35 +5785,35 @@
      "catalog": "https://www.roblox.com/catalog/7220612603"
     },
     {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
     },
     {
-     "id": "98547644476413",
-     "name": "Pink Goth Chained 8-Bit Crown",
+     "id": "96141064088441",
+     "name": "Purple of Relinquished Goth Top Hat [CODE: PRGTH]",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/98547644476413"
+     "catalog": "https://www.roblox.com/catalog/96141064088441"
     }
    ]
   },
   {
    "style": "Goth",
    "budget": "Under 50 Robux",
-   "rank": 3,
+   "rank": 9,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-50-3.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-9.webp",
    "items": [
     {
-     "id": "110063774764393",
-     "name": "Goth",
+     "id": "79556613659092",
+     "name": "Snow Leopard w Bodysuit Red Goth Femb",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
+     "catalog": "https://www.roblox.com/catalog/79556613659092"
     },
     {
      "id": "5246950670",
@@ -5367,66 +5823,28 @@
      "catalog": "https://www.roblox.com/catalog/5246950670"
     },
     {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
+     "id": "62234425",
+     "name": "Brown Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
+     "catalog": "https://www.roblox.com/catalog/62234425"
     },
     {
-     "id": "82820104466406",
-     "name": "Goth Cowboy Hat with Scarf",
+     "id": "70498238301867",
+     "name": "The Funeral Party Goth Queen",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/82820104466406"
+     "catalog": "https://www.roblox.com/catalog/70498238301867"
     }
    ]
   },
   {
    "style": "Goth",
    "budget": "Under 50 Robux",
-   "rank": 4,
+   "rank": 10,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-50-4.webp",
-   "items": [
-    {
-     "id": "70469845918724",
-     "name": "Black Goth Top",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/70469845918724"
-    },
-    {
-     "id": "5246950670",
-     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/5246950670"
-    },
-    {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
-    },
-    {
-     "id": "82820104466406",
-     "name": "Goth Cowboy Hat with Scarf",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/82820104466406"
-    }
-   ]
-  },
-  {
-   "style": "Goth",
-   "budget": "Under 50 Robux",
-   "rank": 5,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-50-5.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-10.webp",
    "items": [
     {
      "id": "79556613659092",
@@ -5443,56 +5861,94 @@
      "catalog": "https://www.roblox.com/catalog/6986198004"
     },
     {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
+     "id": "62234425",
+     "name": "Brown Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
+     "catalog": "https://www.roblox.com/catalog/62234425"
     },
     {
-     "id": "86234309276443",
-     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "id": "70498238301867",
+     "name": "The Funeral Party Goth Queen",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/86234309276443"
+     "catalog": "https://www.roblox.com/catalog/70498238301867"
     }
    ]
   },
   {
    "style": "Goth",
    "budget": "Under 50 Robux",
-   "rank": 6,
+   "rank": 11,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-50-6.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-11.webp",
    "items": [
     {
-     "id": "79556613659092",
-     "name": "Snow Leopard w Bodysuit Red Goth Femb",
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/79556613659092"
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
     },
     {
-     "id": "6275777270",
-     "name": "swag ok vamp hi doll skull emo schoolboy y2k blood",
+     "id": "5246950670",
+     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
      "slot": "Pants",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6275777270"
+     "catalog": "https://www.roblox.com/catalog/5246950670"
     },
     {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
+     "id": "122614899184757",
+     "name": "Black Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
+     "catalog": "https://www.roblox.com/catalog/122614899184757"
     },
     {
-     "id": "86234309276443",
-     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "id": "117022277010244",
+     "name": "Leopard Goth Hat",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/86234309276443"
+     "catalog": "https://www.roblox.com/catalog/117022277010244"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 50 Robux",
+   "rank": 12,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/goth/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-50-12.webp",
+   "items": [
+    {
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
+    },
+    {
+     "id": "6986198004",
+     "name": "Black and pink Y2K pretty gothic vamp skirt",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6986198004"
+    },
+    {
+     "id": "122614899184757",
+     "name": "Black Messy Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/122614899184757"
+    },
+    {
+     "id": "117022277010244",
+     "name": "Leopard Goth Hat",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/117022277010244"
     }
    ]
   },
@@ -5505,32 +5961,32 @@
    "image": "https://robloxoutfits.net/outfits/goth-under-100-1.webp",
    "items": [
     {
-     "id": "110063774764393",
-     "name": "Goth",
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
      "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
-    },
-    {
-     "id": "7220612603",
-     "name": "Black Silk Mini Dress necklace jeans y2k goth",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/7220612603"
-    },
-    {
-     "id": "6778986933",
-     "name": "Adorbs black long hair",
-     "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/6778986933"
-    },
-    {
-     "id": "98547644476413",
-     "name": "Pink Goth Chained 8-Bit Crown",
-     "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/98547644476413"
+     "catalog": "https://www.roblox.com/catalog/144076358"
+    },
+    {
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
+    },
+    {
+     "id": "376527350",
+     "name": "Black Ponytail",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/376527350"
+    },
+    {
+     "id": "17225320544",
+     "name": "Black Goth Captain Hat",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/17225320544"
     }
    ]
   },
@@ -5543,6 +5999,234 @@
    "image": "https://robloxoutfits.net/outfits/goth-under-100-2.webp",
    "items": [
     {
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/144076358"
+    },
+    {
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
+    },
+    {
+     "id": "376527350",
+     "name": "Black Ponytail",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/376527350"
+    },
+    {
+     "id": "17225320544",
+     "name": "Black Goth Captain Hat",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/17225320544"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 100 Robux",
+   "rank": 3,
+   "total_robux": 95,
+   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-3.webp",
+   "items": [
+    {
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
+    },
+    {
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
+    },
+    {
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193442167"
+    },
+    {
+     "id": "6441016373",
+     "name": "Goth Beanie",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/6441016373"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 100 Robux",
+   "rank": 4,
+   "total_robux": 95,
+   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-4.webp",
+   "items": [
+    {
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
+     "slot": "Shirt",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
+    },
+    {
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
+    },
+    {
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193442167"
+    },
+    {
+     "id": "6441016373",
+     "name": "Goth Beanie",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/6441016373"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 100 Robux",
+   "rank": 5,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-5.webp",
+   "items": [
+    {
+     "id": "110063774764393",
+     "name": "Goth",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
+    },
+    {
+     "id": "382537569",
+     "name": "Black Jeans",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
+    },
+    {
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993754725"
+    },
+    {
+     "id": "6742065469",
+     "name": "Black Goth Mask",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/6742065469"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 100 Robux",
+   "rank": 6,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-6.webp",
+   "items": [
+    {
+     "id": "70469845918724",
+     "name": "Black Goth Top",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/70469845918724"
+    },
+    {
+     "id": "382537569",
+     "name": "Black Jeans",
+     "slot": "Pants",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
+    },
+    {
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993754725"
+    },
+    {
+     "id": "6742065469",
+     "name": "Black Goth Mask",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/6742065469"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 100 Robux",
+   "rank": 7,
+   "total_robux": 85,
+   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-7.webp",
+   "items": [
+    {
+     "id": "110063774764393",
+     "name": "Goth",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
+    },
+    {
+     "id": "7220612603",
+     "name": "Black Silk Mini Dress necklace jeans y2k goth",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/7220612603"
+    },
+    {
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
+    },
+    {
+     "id": "6065610790",
+     "name": "Black Spiky Goth Necklace (3.0)",
+     "slot": "Accessory",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6065610790"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 100 Robux",
+   "rank": 8,
+   "total_robux": 85,
+   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-8.webp",
+   "items": [
+    {
      "id": "70469845918724",
      "name": "Black Goth Top",
      "slot": "Shirt",
@@ -5557,11 +6241,49 @@
      "catalog": "https://www.roblox.com/catalog/7220612603"
     },
     {
-     "id": "6778986933",
-     "name": "Adorbs black long hair",
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
      "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/6778986933"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
+    },
+    {
+     "id": "6065610790",
+     "name": "Black Spiky Goth Necklace (3.0)",
+     "slot": "Accessory",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6065610790"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 100 Robux",
+   "rank": 9,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-9.webp",
+   "items": [
+    {
+     "id": "79556613659092",
+     "name": "Snow Leopard w Bodysuit Red Goth Femb",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/79556613659092"
+    },
+    {
+     "id": "5246950670",
+     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/5246950670"
+    },
+    {
+     "id": "62234425",
+     "name": "Brown Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/62234425"
     },
     {
      "id": "98547644476413",
@@ -5575,86 +6297,10 @@
   {
    "style": "Goth",
    "budget": "Under 100 Robux",
-   "rank": 3,
-   "total_robux": 85,
-   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-100-3.webp",
-   "items": [
-    {
-     "id": "110063774764393",
-     "name": "Goth",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
-    },
-    {
-     "id": "5246950670",
-     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/5246950670"
-    },
-    {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
-    },
-    {
-     "id": "6065610790",
-     "name": "Black Spiky Goth Necklace (3.0)",
-     "slot": "Accessory",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6065610790"
-    }
-   ]
-  },
-  {
-   "style": "Goth",
-   "budget": "Under 100 Robux",
-   "rank": 4,
-   "total_robux": 85,
-   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-100-4.webp",
-   "items": [
-    {
-     "id": "70469845918724",
-     "name": "Black Goth Top",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/70469845918724"
-    },
-    {
-     "id": "5246950670",
-     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/5246950670"
-    },
-    {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
-    },
-    {
-     "id": "6065610790",
-     "name": "Black Spiky Goth Necklace (3.0)",
-     "slot": "Accessory",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6065610790"
-    }
-   ]
-  },
-  {
-   "style": "Goth",
-   "budget": "Under 100 Robux",
-   "rank": 5,
+   "rank": 10,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-100-5.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-10.webp",
    "items": [
     {
      "id": "79556613659092",
@@ -5671,49 +6317,49 @@
      "catalog": "https://www.roblox.com/catalog/6986198004"
     },
     {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
+     "id": "62234425",
+     "name": "Brown Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
+     "catalog": "https://www.roblox.com/catalog/62234425"
     },
     {
-     "id": "82820104466406",
-     "name": "Goth Cowboy Hat with Scarf",
+     "id": "98547644476413",
+     "name": "Pink Goth Chained 8-Bit Crown",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/82820104466406"
+     "catalog": "https://www.roblox.com/catalog/98547644476413"
     }
    ]
   },
   {
    "style": "Goth",
    "budget": "Under 100 Robux",
-   "rank": 6,
+   "rank": 11,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-100-6.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-11.webp",
    "items": [
     {
-     "id": "79556613659092",
-     "name": "Snow Leopard w Bodysuit Red Goth Femb",
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/79556613659092"
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
     },
     {
-     "id": "6275777270",
-     "name": "swag ok vamp hi doll skull emo schoolboy y2k blood",
+     "id": "5246950670",
+     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
      "slot": "Pants",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6275777270"
+     "catalog": "https://www.roblox.com/catalog/5246950670"
     },
     {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
+     "id": "122614899184757",
+     "name": "Black Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
+     "catalog": "https://www.roblox.com/catalog/122614899184757"
     },
     {
      "id": "82820104466406",
@@ -5727,17 +6373,17 @@
   {
    "style": "Goth",
    "budget": "Under 100 Robux",
-   "rank": 7,
+   "rank": 12,
    "total_robux": 10,
    "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-100-7.webp",
+   "image": "https://robloxoutfits.net/outfits/goth-under-100-12.webp",
    "items": [
     {
-     "id": "6748325601",
-     "name": "christmas snow cute White corset lace cottage core",
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6748325601"
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
     },
     {
      "id": "6986198004",
@@ -5747,56 +6393,18 @@
      "catalog": "https://www.roblox.com/catalog/6986198004"
     },
     {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
+     "id": "122614899184757",
+     "name": "Black Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
+     "catalog": "https://www.roblox.com/catalog/122614899184757"
     },
     {
-     "id": "86234309276443",
-     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
+     "id": "82820104466406",
+     "name": "Goth Cowboy Hat with Scarf",
      "slot": "Accessory",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/86234309276443"
-    }
-   ]
-  },
-  {
-   "style": "Goth",
-   "budget": "Under 100 Robux",
-   "rank": 8,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/goth/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/goth-under-100-8.webp",
-   "items": [
-    {
-     "id": "6748325601",
-     "name": "christmas snow cute White corset lace cottage core",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6748325601"
-    },
-    {
-     "id": "6275777270",
-     "name": "swag ok vamp hi doll skull emo schoolboy y2k blood",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6275777270"
-    },
-    {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
-    },
-    {
-     "id": "86234309276443",
-     "name": "Goth Super Cloudy Cloudy Cap — FLEX UGC CODE: GOPS",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/86234309276443"
+     "catalog": "https://www.roblox.com/catalog/82820104466406"
     }
    ]
   },
@@ -5804,30 +6412,30 @@
    "style": "Goth",
    "budget": "Under 200 Robux",
    "rank": 1,
-   "total_robux": 200,
+   "total_robux": 95,
    "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-200-1.webp",
    "items": [
     {
-     "id": "110063774764393",
-     "name": "Goth",
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
      "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/144076358"
     },
     {
-     "id": "7220612603",
-     "name": "Black Silk Mini Dress necklace jeans y2k goth",
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/7220612603"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
     },
     {
-     "id": "16630147",
-     "name": "Beautiful Hair for Beautiful People",
+     "id": "376527350",
+     "name": "Black Ponytail",
      "slot": "Hair",
-     "price_robux": 95,
-     "catalog": "https://www.roblox.com/catalog/16630147"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/376527350"
     },
     {
      "id": "17225320544",
@@ -5842,30 +6450,30 @@
    "style": "Goth",
    "budget": "Under 200 Robux",
    "rank": 2,
-   "total_robux": 200,
+   "total_robux": 95,
    "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-200-2.webp",
    "items": [
     {
-     "id": "70469845918724",
-     "name": "Black Goth Top",
+     "id": "144076358",
+     "name": "Blue and Black Motorcycle Shirt",
      "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/70469845918724"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/144076358"
     },
     {
-     "id": "7220612603",
-     "name": "Black Silk Mini Dress necklace jeans y2k goth",
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/7220612603"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
     },
     {
-     "id": "16630147",
-     "name": "Beautiful Hair for Beautiful People",
+     "id": "376527350",
+     "name": "Black Ponytail",
      "slot": "Hair",
-     "price_robux": 95,
-     "catalog": "https://www.roblox.com/catalog/16630147"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/376527350"
     },
     {
      "id": "17225320544",
@@ -5885,25 +6493,25 @@
    "image": "https://robloxoutfits.net/outfits/goth-under-200-3.webp",
    "items": [
     {
-     "id": "110063774764393",
-     "name": "Goth",
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
      "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/110063774764393"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
     },
     {
-     "id": "5246950670",
-     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
+     "id": "398633812",
+     "name": "Black Jeans with White Shoes",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/5246950670"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/398633812"
     },
     {
-     "id": "6778986933",
-     "name": "Adorbs black long hair",
+     "id": "16630147",
+     "name": "Beautiful Hair for Beautiful People",
      "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/6778986933"
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/16630147"
     },
     {
      "id": "6441016373",
@@ -5923,25 +6531,25 @@
    "image": "https://robloxoutfits.net/outfits/goth-under-200-4.webp",
    "items": [
     {
-     "id": "70469845918724",
-     "name": "Black Goth Top",
+     "id": "382538295",
+     "name": "Guitar Tee with Black Jacket",
      "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/70469845918724"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538295"
     },
     {
-     "id": "5246950670",
-     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
+     "id": "382538503",
+     "name": "Black Jeans with Sneakers",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/5246950670"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382538503"
     },
     {
-     "id": "6778986933",
-     "name": "Adorbs black long hair",
+     "id": "16630147",
+     "name": "Beautiful Hair for Beautiful People",
      "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/6778986933"
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/16630147"
     },
     {
      "id": "6441016373",
@@ -5956,30 +6564,30 @@
    "style": "Goth",
    "budget": "Under 200 Robux",
    "rank": 5,
-   "total_robux": 105,
+   "total_robux": 100,
    "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-200-5.webp",
    "items": [
     {
-     "id": "79556613659092",
-     "name": "Snow Leopard w Bodysuit Red Goth Femb",
+     "id": "110063774764393",
+     "name": "Goth",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/79556613659092"
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
     },
     {
-     "id": "6986198004",
-     "name": "Black and pink Y2K pretty gothic vamp skirt",
+     "id": "382537569",
+     "name": "Black Jeans",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6986198004"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
     },
     {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
+     "catalog": "https://www.roblox.com/catalog/7193442167"
     },
     {
      "id": "6742065469",
@@ -5994,30 +6602,30 @@
    "style": "Goth",
    "budget": "Under 200 Robux",
    "rank": 6,
-   "total_robux": 105,
+   "total_robux": 100,
    "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-200-6.webp",
    "items": [
     {
-     "id": "79556613659092",
-     "name": "Snow Leopard w Bodysuit Red Goth Femb",
+     "id": "70469845918724",
+     "name": "Black Goth Top",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/79556613659092"
+     "catalog": "https://www.roblox.com/catalog/70469845918724"
     },
     {
-     "id": "6275777270",
-     "name": "swag ok vamp hi doll skull emo schoolboy y2k blood",
+     "id": "382537569",
+     "name": "Black Jeans",
      "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6275777270"
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/382537569"
     },
     {
-     "id": "123209434429892",
-     "name": "[Limited] Goth Boy Hair",
+     "id": "7193442167",
+     "name": "Pony Tail - Black",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/123209434429892"
+     "catalog": "https://www.roblox.com/catalog/7193442167"
     },
     {
      "id": "6742065469",
@@ -6037,25 +6645,25 @@
    "image": "https://robloxoutfits.net/outfits/goth-under-200-7.webp",
    "items": [
     {
-     "id": "6748325601",
-     "name": "christmas snow cute White corset lace cottage core",
+     "id": "110063774764393",
+     "name": "Goth",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6748325601"
+     "catalog": "https://www.roblox.com/catalog/110063774764393"
     },
     {
-     "id": "6986198004",
-     "name": "Black and pink Y2K pretty gothic vamp skirt",
+     "id": "7220612603",
+     "name": "Black Silk Mini Dress necklace jeans y2k goth",
      "slot": "Pants",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6986198004"
+     "catalog": "https://www.roblox.com/catalog/7220612603"
     },
     {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
+     "catalog": "https://www.roblox.com/catalog/6993754725"
     },
     {
      "id": "6377689712",
@@ -6075,25 +6683,25 @@
    "image": "https://robloxoutfits.net/outfits/goth-under-200-8.webp",
    "items": [
     {
-     "id": "6748325601",
-     "name": "christmas snow cute White corset lace cottage core",
+     "id": "70469845918724",
+     "name": "Black Goth Top",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6748325601"
+     "catalog": "https://www.roblox.com/catalog/70469845918724"
     },
     {
-     "id": "6275777270",
-     "name": "swag ok vamp hi doll skull emo schoolboy y2k blood",
+     "id": "7220612603",
+     "name": "Black Silk Mini Dress necklace jeans y2k goth",
      "slot": "Pants",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6275777270"
+     "catalog": "https://www.roblox.com/catalog/7220612603"
     },
     {
-     "id": "126864860123981",
-     "name": "Pastel Goth Princess Hair",
+     "id": "6993754725",
+     "name": "Straight Bangs - Black",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/126864860123981"
+     "catalog": "https://www.roblox.com/catalog/6993754725"
     },
     {
      "id": "6377689712",
@@ -6108,30 +6716,30 @@
    "style": "Goth",
    "budget": "Under 200 Robux",
    "rank": 9,
-   "total_robux": 87,
+   "total_robux": 85,
    "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-200-9.webp",
    "items": [
     {
-     "id": "125343199877138",
-     "name": "Emo Goth Graffiti Black and White",
+     "id": "79556613659092",
+     "name": "Snow Leopard w Bodysuit Red Goth Femb",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/125343199877138"
+     "catalog": "https://www.roblox.com/catalog/79556613659092"
     },
     {
-     "id": "6960786140",
-     "name": "grey pjs plaid emo y2k vamp grunge goth dh cyber",
+     "id": "5246950670",
+     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
      "slot": "Pants",
-     "price_robux": 7,
-     "catalog": "https://www.roblox.com/catalog/6960786140"
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/5246950670"
     },
     {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
     },
     {
      "id": "6065610790",
@@ -6146,30 +6754,30 @@
    "style": "Goth",
    "budget": "Under 200 Robux",
    "rank": 10,
-   "total_robux": 87,
+   "total_robux": 85,
    "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
    "image": "https://robloxoutfits.net/outfits/goth-under-200-10.webp",
    "items": [
     {
-     "id": "129354707237001",
-     "name": "Black emo shirt with chains and tattoos",
+     "id": "79556613659092",
+     "name": "Snow Leopard w Bodysuit Red Goth Femb",
      "slot": "Shirt",
      "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/129354707237001"
+     "catalog": "https://www.roblox.com/catalog/79556613659092"
     },
     {
-     "id": "6960786140",
-     "name": "grey pjs plaid emo y2k vamp grunge goth dh cyber",
+     "id": "6986198004",
+     "name": "Black and pink Y2K pretty gothic vamp skirt",
      "slot": "Pants",
-     "price_robux": 7,
-     "catalog": "https://www.roblox.com/catalog/6960786140"
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6986198004"
     },
     {
-     "id": "116173522441450",
-     "name": "🐹 Goth Spiral Pigtails w/ Eyes [Free]",
+     "id": "107573464938767",
+     "name": "Blonde Messy Hair",
      "slot": "Hair",
      "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/116173522441450"
+     "catalog": "https://www.roblox.com/catalog/107573464938767"
     },
     {
      "id": "6065610790",
@@ -6177,6 +6785,1724 @@
      "slot": "Accessory",
      "price_robux": 75,
      "catalog": "https://www.roblox.com/catalog/6065610790"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 200 Robux",
+   "rank": 11,
+   "total_robux": 105,
+   "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-200-11.webp",
+   "items": [
+    {
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
+    },
+    {
+     "id": "5246950670",
+     "name": "[ORIG] skirt + convers boots envy y2k vamp emo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/5246950670"
+    },
+    {
+     "id": "62234425",
+     "name": "Brown Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/62234425"
+    },
+    {
+     "id": "7805864386",
+     "name": "XI Bone Hair Clip",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/7805864386"
+    }
+   ]
+  },
+  {
+   "style": "Goth",
+   "budget": "Under 200 Robux",
+   "rank": 12,
+   "total_robux": 105,
+   "page": "https://robloxoutfits.net/outfits/goth/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/goth-under-200-12.webp",
+   "items": [
+    {
+     "id": "125343199877138",
+     "name": "Emo Goth Graffiti Black and White",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/125343199877138"
+    },
+    {
+     "id": "6986198004",
+     "name": "Black and pink Y2K pretty gothic vamp skirt",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6986198004"
+    },
+    {
+     "id": "62234425",
+     "name": "Brown Hair",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/62234425"
+    },
+    {
+     "id": "7805864386",
+     "name": "XI Bone Hair Clip",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/7805864386"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 1,
+   "total_robux": 14,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-1.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "12955399914",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 9,
+     "catalog": "https://www.roblox.com/catalog/12955399914"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 2,
+   "total_robux": 14,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-2.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "12955399914",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 9,
+     "catalog": "https://www.roblox.com/catalog/12955399914"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 3,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-3.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "9244097555",
+     "name": "Pony Tail - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244097555"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 4,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-4.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "9244097555",
+     "name": "Pony Tail - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244097555"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 5,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-5.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "7193449810",
+     "name": "Straight Bangs - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193449810"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 6,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-6.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "7193449810",
+     "name": "Straight Bangs - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193449810"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 7,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-7.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "15766933353",
+     "name": "Long Over the Shoulder Wavy w/ Beanie (Blonde)",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/15766933353"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 8,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-8.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "15766933353",
+     "name": "Long Over the Shoulder Wavy w/ Beanie (Blonde)",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/15766933353"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 9,
+   "total_robux": 12,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-9.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "9244070571",
+     "name": "Sideswept Dreads - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244070571"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 10,
+   "total_robux": 12,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-10.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "9244070571",
+     "name": "Sideswept Dreads - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244070571"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 11,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-11.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "6993758617",
+     "name": "Short and Sleek - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993758617"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Almost free",
+   "rank": 12,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
+   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-12.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "6993758617",
+     "name": "Short and Sleek - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993758617"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 1,
+   "total_robux": 14,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-1.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "12955399914",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 9,
+     "catalog": "https://www.roblox.com/catalog/12955399914"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 2,
+   "total_robux": 14,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-2.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "12955399914",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 9,
+     "catalog": "https://www.roblox.com/catalog/12955399914"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 3,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-3.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "9244097555",
+     "name": "Pony Tail - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244097555"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 4,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-4.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "9244097555",
+     "name": "Pony Tail - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244097555"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 5,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-5.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "7193449810",
+     "name": "Straight Bangs - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193449810"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 6,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-6.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "7193449810",
+     "name": "Straight Bangs - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193449810"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 7,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-7.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "15766933353",
+     "name": "Long Over the Shoulder Wavy w/ Beanie (Blonde)",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/15766933353"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 8,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-8.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "15766933353",
+     "name": "Long Over the Shoulder Wavy w/ Beanie (Blonde)",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/15766933353"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 9,
+   "total_robux": 12,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-9.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "9244070571",
+     "name": "Sideswept Dreads - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244070571"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 10,
+   "total_robux": 12,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-10.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "9244070571",
+     "name": "Sideswept Dreads - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244070571"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 11,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-11.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "6993758617",
+     "name": "Short and Sleek - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993758617"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 50 Robux",
+   "rank": 12,
+   "total_robux": 10,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-50-12.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "6993758617",
+     "name": "Short and Sleek - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/6993758617"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 1,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-1.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "100346367956333",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/100346367956333"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "12355935672",
+     "name": "Mean Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/12355935672"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 2,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-2.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "100346367956333",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/100346367956333"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "12355935672",
+     "name": "Mean Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/12355935672"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 3,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-3.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "9244097555",
+     "name": "Pony Tail - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244097555"
+    },
+    {
+     "id": "11985118745",
+     "name": "Popular Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/11985118745"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 4,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-4.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "9244097555",
+     "name": "Pony Tail - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/9244097555"
+    },
+    {
+     "id": "11985118745",
+     "name": "Popular Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/11985118745"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 5,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-5.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "7193449810",
+     "name": "Straight Bangs - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193449810"
+    },
+    {
+     "id": "10968640623",
+     "name": "⊱┊soft cute eyelash face",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/10968640623"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 6,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-6.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "7193449810",
+     "name": "Straight Bangs - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193449810"
+    },
+    {
+     "id": "10968640623",
+     "name": "⊱┊soft cute eyelash face",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/10968640623"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 7,
+   "total_robux": 85,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-7.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "6501746646",
+     "name": "Popular Girl Blonde & Brown Hair",
+     "slot": "Hair",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6501746646"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 8,
+   "total_robux": 85,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-8.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "6501746646",
+     "name": "Popular Girl Blonde & Brown Hair",
+     "slot": "Hair",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6501746646"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 9,
+   "total_robux": 91,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-9.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "5890690147",
+     "name": "Popstar Hair",
+     "slot": "Hair",
+     "price_robux": 79,
+     "catalog": "https://www.roblox.com/catalog/5890690147"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 10,
+   "total_robux": 91,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-10.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "5890690147",
+     "name": "Popstar Hair",
+     "slot": "Hair",
+     "price_robux": 79,
+     "catalog": "https://www.roblox.com/catalog/5890690147"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 11,
+   "total_robux": 95,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-11.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "5918940548",
+     "name": "Blonde curly celebrity hair",
+     "slot": "Hair",
+     "price_robux": 85,
+     "catalog": "https://www.roblox.com/catalog/5918940548"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 100 Robux",
+   "rank": 12,
+   "total_robux": 95,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-100-12.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "5918940548",
+     "name": "Blonde curly celebrity hair",
+     "slot": "Hair",
+     "price_robux": 85,
+     "catalog": "https://www.roblox.com/catalog/5918940548"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 1,
+   "total_robux": 179,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-1.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "12955399914",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 9,
+     "catalog": "https://www.roblox.com/catalog/12955399914"
+    },
+    {
+     "id": "6501746646",
+     "name": "Popular Girl Blonde & Brown Hair",
+     "slot": "Hair",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6501746646"
+    },
+    {
+     "id": "12355935672",
+     "name": "Mean Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/12355935672"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 2,
+   "total_robux": 179,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-2.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "12955399914",
+     "name": "baddie",
+     "slot": "Pants",
+     "price_robux": 9,
+     "catalog": "https://www.roblox.com/catalog/12955399914"
+    },
+    {
+     "id": "6501746646",
+     "name": "Popular Girl Blonde & Brown Hair",
+     "slot": "Hair",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6501746646"
+    },
+    {
+     "id": "12355935672",
+     "name": "Mean Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/12355935672"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 3,
+   "total_robux": 179,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-3.webp",
+   "items": [
+    {
+     "id": "84476356325177",
+     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/84476356325177"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "5890690147",
+     "name": "Popstar Hair",
+     "slot": "Hair",
+     "price_robux": 79,
+     "catalog": "https://www.roblox.com/catalog/5890690147"
+    },
+    {
+     "id": "11985118745",
+     "name": "Popular Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/11985118745"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 4,
+   "total_robux": 179,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-4.webp",
+   "items": [
+    {
+     "id": "83013321287108",
+     "name": "grey northface chav roadman baddie romper bodysuit",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/83013321287108"
+    },
+    {
+     "id": "72040871097113",
+     "name": "rogangster cyber y2k ok baddie gyaru drain",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/72040871097113"
+    },
+    {
+     "id": "5890690147",
+     "name": "Popstar Hair",
+     "slot": "Hair",
+     "price_robux": 79,
+     "catalog": "https://www.roblox.com/catalog/5890690147"
+    },
+    {
+     "id": "11985118745",
+     "name": "Popular Girl Cute Mask Light Brown",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/11985118745"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 5,
+   "total_robux": 190,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-5.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "5918940548",
+     "name": "Blonde curly celebrity hair",
+     "slot": "Hair",
+     "price_robux": 85,
+     "catalog": "https://www.roblox.com/catalog/5918940548"
+    },
+    {
+     "id": "10713991705",
+     "name": "Cute Gyaru Eyelashes",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/10713991705"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 6,
+   "total_robux": 190,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-6.webp",
+   "items": [
+    {
+     "id": "73296098645869",
+     "name": "beige one piece top baddie ro-gangster",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73296098645869"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "5918940548",
+     "name": "Blonde curly celebrity hair",
+     "slot": "Hair",
+     "price_robux": 85,
+     "catalog": "https://www.roblox.com/catalog/5918940548"
+    },
+    {
+     "id": "10713991705",
+     "name": "Cute Gyaru Eyelashes",
+     "slot": "Accessory",
+     "price_robux": 95,
+     "catalog": "https://www.roblox.com/catalog/10713991705"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 7,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-7.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "73737586786015",
+     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/73737586786015"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "10968640623",
+     "name": "⊱┊soft cute eyelash face",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/10968640623"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 8,
+   "total_robux": 100,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-8.webp",
+   "items": [
+    {
+     "id": "128034928359180",
+     "name": "white necklace buttoned shirt female baddie y2k",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/128034928359180"
+    },
+    {
+     "id": "6712040000",
+     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/6712040000"
+    },
+    {
+     "id": "7193448258",
+     "name": "Wavy Middle Part - Brown",
+     "slot": "Hair",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/7193448258"
+    },
+    {
+     "id": "10968640623",
+     "name": "⊱┊soft cute eyelash face",
+     "slot": "Accessory",
+     "price_robux": 90,
+     "catalog": "https://www.roblox.com/catalog/10968640623"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 9,
+   "total_robux": 77,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-9.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "11597599236",
+     "name": "Lush Wavy Hair (Blonde)",
+     "slot": "Hair",
+     "price_robux": 65,
+     "catalog": "https://www.roblox.com/catalog/11597599236"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 10,
+   "total_robux": 77,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-10.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "14876830197",
+     "name": "Mandraka baddie moe emo y2k",
+     "slot": "Pants",
+     "price_robux": 7,
+     "catalog": "https://www.roblox.com/catalog/14876830197"
+    },
+    {
+     "id": "11597599236",
+     "name": "Lush Wavy Hair (Blonde)",
+     "slot": "Hair",
+     "price_robux": 65,
+     "catalog": "https://www.roblox.com/catalog/11597599236"
+    },
+    {
+     "id": "131217586653422",
+     "name": "Pink Octo Baddie 💅  |  Code: POB",
+     "slot": "Accessory",
+     "price_robux": 0,
+     "catalog": "https://www.roblox.com/catalog/131217586653422"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 11,
+   "total_robux": 85,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-11.webp",
+   "items": [
+    {
+     "id": "106426071145965",
+     "name": "red baddie jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/106426071145965"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "6522211748",
+     "name": "California Girl Blonde Hair",
+     "slot": "Hair",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6522211748"
+    }
+   ]
+  },
+  {
+   "style": "Baddie",
+   "budget": "Under 200 Robux",
+   "rank": 12,
+   "total_robux": 85,
+   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
+   "image": "https://robloxoutfits.net/outfits/baddie-under-200-12.webp",
+   "items": [
+    {
+     "id": "98638108525222",
+     "name": "pink baddie nfl jersey",
+     "slot": "Shirt",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/98638108525222"
+    },
+    {
+     "id": "114680848614387",
+     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
+     "slot": "Pants",
+     "price_robux": 5,
+     "catalog": "https://www.roblox.com/catalog/114680848614387"
+    },
+    {
+     "id": "6522211748",
+     "name": "California Girl Blonde Hair",
+     "slot": "Hair",
+     "price_robux": 75,
+     "catalog": "https://www.roblox.com/catalog/6522211748"
     }
    ]
   },
@@ -10827,1138 +13153,6 @@
      "slot": "Accessory",
      "price_robux": 95,
      "catalog": "https://www.roblox.com/catalog/13989741745"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Almost free",
-   "rank": 1,
-   "total_robux": 14,
-   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-1.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Almost free",
-   "rank": 2,
-   "total_robux": 14,
-   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-2.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Almost free",
-   "rank": 3,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-3.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "133868810893776",
-     "name": "Ginger Gyaru Emo Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/133868810893776"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Almost free",
-   "rank": 4,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/baddie/almost-free/",
-   "image": "https://robloxoutfits.net/outfits/baddie-almost-free-4.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "133868810893776",
-     "name": "Ginger Gyaru Emo Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/133868810893776"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 50 Robux",
-   "rank": 1,
-   "total_robux": 14,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-50-1.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 50 Robux",
-   "rank": 2,
-   "total_robux": 14,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-50-2.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 50 Robux",
-   "rank": 3,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-50-3.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "133868810893776",
-     "name": "Ginger Gyaru Emo Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/133868810893776"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 50 Robux",
-   "rank": 4,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-50-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-50-4.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "133868810893776",
-     "name": "Ginger Gyaru Emo Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/133868810893776"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 1,
-   "total_robux": 89,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-1.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "6501746646",
-     "name": "Popular Girl Blonde & Brown Hair",
-     "slot": "Hair",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6501746646"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 2,
-   "total_robux": 89,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-2.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "6501746646",
-     "name": "Popular Girl Blonde & Brown Hair",
-     "slot": "Hair",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6501746646"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 3,
-   "total_robux": 100,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-3.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
-    },
-    {
-     "id": "12355935672",
-     "name": "Mean Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/12355935672"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 4,
-   "total_robux": 100,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-4.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
-    },
-    {
-     "id": "12355935672",
-     "name": "Mean Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/12355935672"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 5,
-   "total_robux": 100,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-5.webp",
-   "items": [
-    {
-     "id": "73296098645869",
-     "name": "beige one piece top baddie ro-gangster",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73296098645869"
-    },
-    {
-     "id": "73737586786015",
-     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73737586786015"
-    },
-    {
-     "id": "133868810893776",
-     "name": "Ginger Gyaru Emo Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/133868810893776"
-    },
-    {
-     "id": "11985118745",
-     "name": "Popular Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/11985118745"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 6,
-   "total_robux": 100,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-6.webp",
-   "items": [
-    {
-     "id": "73296098645869",
-     "name": "beige one piece top baddie ro-gangster",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73296098645869"
-    },
-    {
-     "id": "6712040000",
-     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6712040000"
-    },
-    {
-     "id": "133868810893776",
-     "name": "Ginger Gyaru Emo Hair",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/133868810893776"
-    },
-    {
-     "id": "11985118745",
-     "name": "Popular Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/11985118745"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 7,
-   "total_robux": 89,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-7.webp",
-   "items": [
-    {
-     "id": "128034928359180",
-     "name": "white necklace buttoned shirt female baddie y2k",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/128034928359180"
-    },
-    {
-     "id": "73737586786015",
-     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73737586786015"
-    },
-    {
-     "id": "5890690147",
-     "name": "Popstar Hair",
-     "slot": "Hair",
-     "price_robux": 79,
-     "catalog": "https://www.roblox.com/catalog/5890690147"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 8,
-   "total_robux": 89,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-8.webp",
-   "items": [
-    {
-     "id": "128034928359180",
-     "name": "white necklace buttoned shirt female baddie y2k",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/128034928359180"
-    },
-    {
-     "id": "6712040000",
-     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6712040000"
-    },
-    {
-     "id": "5890690147",
-     "name": "Popstar Hair",
-     "slot": "Hair",
-     "price_robux": 79,
-     "catalog": "https://www.roblox.com/catalog/5890690147"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 9,
-   "total_robux": 97,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-9.webp",
-   "items": [
-    {
-     "id": "106426071145965",
-     "name": "red baddie jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/106426071145965"
-    },
-    {
-     "id": "14876830197",
-     "name": "Mandraka baddie moe emo y2k",
-     "slot": "Pants",
-     "price_robux": 7,
-     "catalog": "https://www.roblox.com/catalog/14876830197"
-    },
-    {
-     "id": "5918940548",
-     "name": "Blonde curly celebrity hair",
-     "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/5918940548"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 10,
-   "total_robux": 97,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-10.webp",
-   "items": [
-    {
-     "id": "98638108525222",
-     "name": "pink baddie nfl jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/98638108525222"
-    },
-    {
-     "id": "14876830197",
-     "name": "Mandraka baddie moe emo y2k",
-     "slot": "Pants",
-     "price_robux": 7,
-     "catalog": "https://www.roblox.com/catalog/14876830197"
-    },
-    {
-     "id": "5918940548",
-     "name": "Blonde curly celebrity hair",
-     "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/5918940548"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 11,
-   "total_robux": 75,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-11.webp",
-   "items": [
-    {
-     "id": "106426071145965",
-     "name": "red baddie jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/106426071145965"
-    },
-    {
-     "id": "114680848614387",
-     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/114680848614387"
-    },
-    {
-     "id": "11597599236",
-     "name": "Lush Wavy Hair (Blonde)",
-     "slot": "Hair",
-     "price_robux": 65,
-     "catalog": "https://www.roblox.com/catalog/11597599236"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 100 Robux",
-   "rank": 12,
-   "total_robux": 75,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-100-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-100-12.webp",
-   "items": [
-    {
-     "id": "98638108525222",
-     "name": "pink baddie nfl jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/98638108525222"
-    },
-    {
-     "id": "114680848614387",
-     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/114680848614387"
-    },
-    {
-     "id": "11597599236",
-     "name": "Lush Wavy Hair (Blonde)",
-     "slot": "Hair",
-     "price_robux": 65,
-     "catalog": "https://www.roblox.com/catalog/11597599236"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 1,
-   "total_robux": 179,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-1.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "6501746646",
-     "name": "Popular Girl Blonde & Brown Hair",
-     "slot": "Hair",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6501746646"
-    },
-    {
-     "id": "12355935672",
-     "name": "Mean Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/12355935672"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 2,
-   "total_robux": 179,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-2.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "12955399914",
-     "name": "baddie",
-     "slot": "Pants",
-     "price_robux": 9,
-     "catalog": "https://www.roblox.com/catalog/12955399914"
-    },
-    {
-     "id": "6501746646",
-     "name": "Popular Girl Blonde & Brown Hair",
-     "slot": "Hair",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6501746646"
-    },
-    {
-     "id": "12355935672",
-     "name": "Mean Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/12355935672"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 3,
-   "total_robux": 179,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-3.webp",
-   "items": [
-    {
-     "id": "84476356325177",
-     "name": "Black Bodysuit Turtle Neck Wedgie Baddie Thigh Sho",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/84476356325177"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "5890690147",
-     "name": "Popstar Hair",
-     "slot": "Hair",
-     "price_robux": 79,
-     "catalog": "https://www.roblox.com/catalog/5890690147"
-    },
-    {
-     "id": "11985118745",
-     "name": "Popular Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/11985118745"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 4,
-   "total_robux": 179,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-4.webp",
-   "items": [
-    {
-     "id": "83013321287108",
-     "name": "grey northface chav roadman baddie romper bodysuit",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/83013321287108"
-    },
-    {
-     "id": "72040871097113",
-     "name": "rogangster cyber y2k ok baddie gyaru drain",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/72040871097113"
-    },
-    {
-     "id": "5890690147",
-     "name": "Popstar Hair",
-     "slot": "Hair",
-     "price_robux": 79,
-     "catalog": "https://www.roblox.com/catalog/5890690147"
-    },
-    {
-     "id": "11985118745",
-     "name": "Popular Girl Cute Mask Light Brown",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/11985118745"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 5,
-   "total_robux": 190,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-5.webp",
-   "items": [
-    {
-     "id": "73296098645869",
-     "name": "beige one piece top baddie ro-gangster",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73296098645869"
-    },
-    {
-     "id": "73737586786015",
-     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73737586786015"
-    },
-    {
-     "id": "5918940548",
-     "name": "Blonde curly celebrity hair",
-     "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/5918940548"
-    },
-    {
-     "id": "10713991705",
-     "name": "Cute Gyaru Eyelashes",
-     "slot": "Accessory",
-     "price_robux": 95,
-     "catalog": "https://www.roblox.com/catalog/10713991705"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 6,
-   "total_robux": 190,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-6.webp",
-   "items": [
-    {
-     "id": "73296098645869",
-     "name": "beige one piece top baddie ro-gangster",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73296098645869"
-    },
-    {
-     "id": "6712040000",
-     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6712040000"
-    },
-    {
-     "id": "5918940548",
-     "name": "Blonde curly celebrity hair",
-     "slot": "Hair",
-     "price_robux": 85,
-     "catalog": "https://www.roblox.com/catalog/5918940548"
-    },
-    {
-     "id": "10713991705",
-     "name": "Cute Gyaru Eyelashes",
-     "slot": "Accessory",
-     "price_robux": 95,
-     "catalog": "https://www.roblox.com/catalog/10713991705"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 7,
-   "total_robux": 165,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-7.webp",
-   "items": [
-    {
-     "id": "128034928359180",
-     "name": "white necklace buttoned shirt female baddie y2k",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/128034928359180"
-    },
-    {
-     "id": "73737586786015",
-     "name": "jean shorts baddie rogangster cnp ext y2k trendy",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/73737586786015"
-    },
-    {
-     "id": "11597599236",
-     "name": "Lush Wavy Hair (Blonde)",
-     "slot": "Hair",
-     "price_robux": 65,
-     "catalog": "https://www.roblox.com/catalog/11597599236"
-    },
-    {
-     "id": "10968640623",
-     "name": "⊱┊soft cute eyelash face",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/10968640623"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 8,
-   "total_robux": 165,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-8.webp",
-   "items": [
-    {
-     "id": "128034928359180",
-     "name": "white necklace buttoned shirt female baddie y2k",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/128034928359180"
-    },
-    {
-     "id": "6712040000",
-     "name": "baddie y2k black dh shorts emo aesthetic tattoo",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/6712040000"
-    },
-    {
-     "id": "11597599236",
-     "name": "Lush Wavy Hair (Blonde)",
-     "slot": "Hair",
-     "price_robux": 65,
-     "catalog": "https://www.roblox.com/catalog/11597599236"
-    },
-    {
-     "id": "10968640623",
-     "name": "⊱┊soft cute eyelash face",
-     "slot": "Accessory",
-     "price_robux": 90,
-     "catalog": "https://www.roblox.com/catalog/10968640623"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 9,
-   "total_robux": 87,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-9.webp",
-   "items": [
-    {
-     "id": "106426071145965",
-     "name": "red baddie jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/106426071145965"
-    },
-    {
-     "id": "14876830197",
-     "name": "Mandraka baddie moe emo y2k",
-     "slot": "Pants",
-     "price_robux": 7,
-     "catalog": "https://www.roblox.com/catalog/14876830197"
-    },
-    {
-     "id": "6522211748",
-     "name": "California Girl Blonde Hair",
-     "slot": "Hair",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6522211748"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 10,
-   "total_robux": 87,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-10.webp",
-   "items": [
-    {
-     "id": "98638108525222",
-     "name": "pink baddie nfl jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/98638108525222"
-    },
-    {
-     "id": "14876830197",
-     "name": "Mandraka baddie moe emo y2k",
-     "slot": "Pants",
-     "price_robux": 7,
-     "catalog": "https://www.roblox.com/catalog/14876830197"
-    },
-    {
-     "id": "6522211748",
-     "name": "California Girl Blonde Hair",
-     "slot": "Hair",
-     "price_robux": 75,
-     "catalog": "https://www.roblox.com/catalog/6522211748"
-    },
-    {
-     "id": "131217586653422",
-     "name": "Pink Octo Baddie 💅  |  Code: POB",
-     "slot": "Accessory",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/131217586653422"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 11,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-11.webp",
-   "items": [
-    {
-     "id": "106426071145965",
-     "name": "red baddie jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/106426071145965"
-    },
-    {
-     "id": "114680848614387",
-     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/114680848614387"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
-    }
-   ]
-  },
-  {
-   "style": "Baddie",
-   "budget": "Under 200 Robux",
-   "rank": 12,
-   "total_robux": 10,
-   "page": "https://robloxoutfits.net/outfits/baddie/under-200-robux/",
-   "image": "https://robloxoutfits.net/outfits/baddie-under-200-12.webp",
-   "items": [
-    {
-     "id": "98638108525222",
-     "name": "pink baddie nfl jersey",
-     "slot": "Shirt",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/98638108525222"
-    },
-    {
-     "id": "114680848614387",
-     "name": "Star Denim Camo Pants W Pink Dunks Baddie",
-     "slot": "Pants",
-     "price_robux": 5,
-     "catalog": "https://www.roblox.com/catalog/114680848614387"
-    },
-    {
-     "id": "94656938191690",
-     "name": "Baddie hair brown",
-     "slot": "Hair",
-     "price_robux": 0,
-     "catalog": "https://www.roblox.com/catalog/94656938191690"
     }
    ]
   }
