@@ -1,6 +1,6 @@
 # Roblox Outfit Ideas (open dataset)
 
-Complete Roblox avatar outfits by style and budget, with every item ID and price. 376 outfits, 206 catalog items, last updated 2026-10-02.
+Complete Roblox avatar outfits by style and budget, with every item ID and price. 424 outfits, 228 catalog items, last updated 2026-10-02.
 
 Browse them with pictures at **[robloxoutfits.net](https://robloxoutfits.net)**.
 
@@ -16,6 +16,7 @@ Browse them with pictures at **[robloxoutfits.net](https://robloxoutfits.net)**.
 | [Streetwear](https://robloxoutfits.net/outfits/streetwear/) | [8](https://robloxoutfits.net/outfits/streetwear/almost-free/) | [8](https://robloxoutfits.net/outfits/streetwear/under-50-robux/) | [12](https://robloxoutfits.net/outfits/streetwear/under-100-robux/) | [12](https://robloxoutfits.net/outfits/streetwear/under-200-robux/) |
 | [Y2K](https://robloxoutfits.net/outfits/y2k/) | [12](https://robloxoutfits.net/outfits/y2k/almost-free/) | [12](https://robloxoutfits.net/outfits/y2k/under-50-robux/) | [12](https://robloxoutfits.net/outfits/y2k/under-100-robux/) | [12](https://robloxoutfits.net/outfits/y2k/under-200-robux/) |
 | [Cute](https://robloxoutfits.net/outfits/cute/) | [12](https://robloxoutfits.net/outfits/cute/almost-free/) | [12](https://robloxoutfits.net/outfits/cute/under-50-robux/) | [12](https://robloxoutfits.net/outfits/cute/under-100-robux/) | [12](https://robloxoutfits.net/outfits/cute/under-200-robux/) |
+| [Halloween](https://robloxoutfits.net/outfits/halloween/) | [12](https://robloxoutfits.net/outfits/halloween/almost-free/) | [12](https://robloxoutfits.net/outfits/halloween/under-50-robux/) | [12](https://robloxoutfits.net/outfits/halloween/under-100-robux/) | [12](https://robloxoutfits.net/outfits/halloween/under-200-robux/) |
 
 ## Files
 
