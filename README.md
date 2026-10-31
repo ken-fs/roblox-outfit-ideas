@@ -1,6 +1,6 @@
 # Roblox Outfit Ideas (open dataset)
 
-Complete Roblox avatar outfits by style and budget, with every item ID and price. 424 outfits, 239 catalog items, last updated 2026-10-02.
+Complete Roblox avatar outfits by style and budget, with every item ID and price. 416 outfits, 321 catalog items, last updated 2026-10-31.
 
 Browse them with pictures at **[robloxoutfits.net](https://robloxoutfits.net)**.
 
@@ -8,21 +8,21 @@ Browse them with pictures at **[robloxoutfits.net](https://robloxoutfits.net)**.
 
 | Style | Almost free | Under 50 Robux | Under 100 Robux | Under 200 Robux |
 |---|---|---|---|---|
-| [Aesthetic](https://robloxoutfits.net/outfits/aesthetic/) | [12](https://robloxoutfits.net/outfits/aesthetic/almost-free/) | [12](https://robloxoutfits.net/outfits/aesthetic/under-50-robux/) | [12](https://robloxoutfits.net/outfits/aesthetic/under-100-robux/) | [12](https://robloxoutfits.net/outfits/aesthetic/under-200-robux/) |
-| [Preppy](https://robloxoutfits.net/outfits/preppy/) | [12](https://robloxoutfits.net/outfits/preppy/almost-free/) | [12](https://robloxoutfits.net/outfits/preppy/under-50-robux/) | [12](https://robloxoutfits.net/outfits/preppy/under-100-robux/) | [12](https://robloxoutfits.net/outfits/preppy/under-200-robux/) |
-| [Emo](https://robloxoutfits.net/outfits/emo/) | [12](https://robloxoutfits.net/outfits/emo/almost-free/) | [12](https://robloxoutfits.net/outfits/emo/under-50-robux/) | [12](https://robloxoutfits.net/outfits/emo/under-100-robux/) | [12](https://robloxoutfits.net/outfits/emo/under-200-robux/) |
-| [Goth](https://robloxoutfits.net/outfits/goth/) | [12](https://robloxoutfits.net/outfits/goth/almost-free/) | [12](https://robloxoutfits.net/outfits/goth/under-50-robux/) | [12](https://robloxoutfits.net/outfits/goth/under-100-robux/) | [12](https://robloxoutfits.net/outfits/goth/under-200-robux/) |
-| [Baddie](https://robloxoutfits.net/outfits/baddie/) | [12](https://robloxoutfits.net/outfits/baddie/almost-free/) | [12](https://robloxoutfits.net/outfits/baddie/under-50-robux/) | [12](https://robloxoutfits.net/outfits/baddie/under-100-robux/) | [12](https://robloxoutfits.net/outfits/baddie/under-200-robux/) |
-| [Streetwear](https://robloxoutfits.net/outfits/streetwear/) | [8](https://robloxoutfits.net/outfits/streetwear/almost-free/) | [8](https://robloxoutfits.net/outfits/streetwear/under-50-robux/) | [12](https://robloxoutfits.net/outfits/streetwear/under-100-robux/) | [12](https://robloxoutfits.net/outfits/streetwear/under-200-robux/) |
-| [Y2K](https://robloxoutfits.net/outfits/y2k/) | [12](https://robloxoutfits.net/outfits/y2k/almost-free/) | [12](https://robloxoutfits.net/outfits/y2k/under-50-robux/) | [12](https://robloxoutfits.net/outfits/y2k/under-100-robux/) | [12](https://robloxoutfits.net/outfits/y2k/under-200-robux/) |
-| [Cute](https://robloxoutfits.net/outfits/cute/) | [12](https://robloxoutfits.net/outfits/cute/almost-free/) | [12](https://robloxoutfits.net/outfits/cute/under-50-robux/) | [12](https://robloxoutfits.net/outfits/cute/under-100-robux/) | [12](https://robloxoutfits.net/outfits/cute/under-200-robux/) |
-| [Halloween](https://robloxoutfits.net/outfits/halloween/) | [12](https://robloxoutfits.net/outfits/halloween/almost-free/) | [12](https://robloxoutfits.net/outfits/halloween/under-50-robux/) | [12](https://robloxoutfits.net/outfits/halloween/under-100-robux/) | [12](https://robloxoutfits.net/outfits/halloween/under-200-robux/) |
+| [Aesthetic](https://robloxoutfits.net/outfits/aesthetic/) | [8](https://robloxoutfits.net/outfits/aesthetic/?budget=almost-free) | [8](https://robloxoutfits.net/outfits/aesthetic/?budget=under-50-robux) | [16](https://robloxoutfits.net/outfits/aesthetic/?budget=under-100-robux) | [42](https://robloxoutfits.net/outfits/aesthetic/?budget=under-200-robux) |
+| [Preppy](https://robloxoutfits.net/outfits/preppy/) | [24](https://robloxoutfits.net/outfits/preppy/?budget=almost-free) | [24](https://robloxoutfits.net/outfits/preppy/?budget=under-50-robux) | [32](https://robloxoutfits.net/outfits/preppy/?budget=under-100-robux) | [40](https://robloxoutfits.net/outfits/preppy/?budget=under-200-robux) |
+| [Emo](https://robloxoutfits.net/outfits/emo/) | [28](https://robloxoutfits.net/outfits/emo/?budget=almost-free) | [28](https://robloxoutfits.net/outfits/emo/?budget=under-50-robux) | [36](https://robloxoutfits.net/outfits/emo/?budget=under-100-robux) | [48](https://robloxoutfits.net/outfits/emo/?budget=under-200-robux) |
+| [Goth](https://robloxoutfits.net/outfits/goth/) | [36](https://robloxoutfits.net/outfits/goth/?budget=almost-free) | [36](https://robloxoutfits.net/outfits/goth/?budget=under-50-robux) | [42](https://robloxoutfits.net/outfits/goth/?budget=under-100-robux) | [48](https://robloxoutfits.net/outfits/goth/?budget=under-200-robux) |
+| [Baddie](https://robloxoutfits.net/outfits/baddie/) | [20](https://robloxoutfits.net/outfits/baddie/?budget=almost-free) | [20](https://robloxoutfits.net/outfits/baddie/?budget=under-50-robux) | [40](https://robloxoutfits.net/outfits/baddie/?budget=under-100-robux) | [48](https://robloxoutfits.net/outfits/baddie/?budget=under-200-robux) |
+| [Streetwear](https://robloxoutfits.net/outfits/streetwear/) | [9](https://robloxoutfits.net/outfits/streetwear/?budget=almost-free) | [9](https://robloxoutfits.net/outfits/streetwear/?budget=under-50-robux) | [31](https://robloxoutfits.net/outfits/streetwear/?budget=under-100-robux) | [40](https://robloxoutfits.net/outfits/streetwear/?budget=under-200-robux) |
+| [Y2K](https://robloxoutfits.net/outfits/y2k/) | [13](https://robloxoutfits.net/outfits/y2k/?budget=almost-free) | [16](https://robloxoutfits.net/outfits/y2k/?budget=under-50-robux) | [24](https://robloxoutfits.net/outfits/y2k/?budget=under-100-robux) | [48](https://robloxoutfits.net/outfits/y2k/?budget=under-200-robux) |
+| [Cute](https://robloxoutfits.net/outfits/cute/) | [10](https://robloxoutfits.net/outfits/cute/?budget=almost-free) | [16](https://robloxoutfits.net/outfits/cute/?budget=under-50-robux) | [20](https://robloxoutfits.net/outfits/cute/?budget=under-100-robux) | [48](https://robloxoutfits.net/outfits/cute/?budget=under-200-robux) |
+| [Halloween](https://robloxoutfits.net/outfits/halloween/) | [8](https://robloxoutfits.net/outfits/halloween/?budget=almost-free) | [8](https://robloxoutfits.net/outfits/halloween/?budget=under-50-robux) | [19](https://robloxoutfits.net/outfits/halloween/?budget=under-100-robux) | [41](https://robloxoutfits.net/outfits/halloween/?budget=under-200-robux) |
 
 ## Files
 
 | File | What is in it |
 |---|---|
-| [`data/outfits.json`](data/outfits.json) | One entry per outfit: style, budget tier, total Robux, page and image links, and every item (ID, name, slot, price, catalog link) |
+| [`data/outfits.json`](data/outfits.json) | One entry per outfit: style, cheapest budget tier it fits, total Robux, page and image links, and every item (ID, name, slot, price, catalog link) |
 | [`data/outfits.csv`](data/outfits.csv) | The same data, one row per item, for spreadsheets |
 
 Item IDs can be pasted into games that let you wear catalog items by ID, such as Brookhaven.
